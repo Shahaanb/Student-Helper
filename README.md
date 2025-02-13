@@ -102,6 +102,13 @@ python project.py -ir <integer>
 - The program uses `argparse` for command-line arguments.
 - The dictionary feature relies on the Oxford Dictionary API and may have a delay in response.
 
+
+## Source Files  
+
+The `Initial_Scripts` folder contains the original scripts used to develop **Student Helper**. Each feature was initially implemented and tested in separate files before being combined into `helper.py`. These files serve as a reference for understanding the core functionality of each feature.  
+
+For a detailed breakdown of the files in this folder, refer to the [Source Files README](Initial_Scripts/README.md).  
+
 ---
 This project was inspired by my personal struggles during A-levels. I created it to make student life easier by consolidating essential tools into one program.
 

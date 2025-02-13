@@ -4,7 +4,7 @@
 [Watch Here](https://youtu.be/YFO3g3qUHRQ)
 
 ## Description
-Student Helper is a program designed to assist students with various tasks. When I was doing my A-levels one year ago, I often had to switch between multiple apps and websites for different subjects. For example, when I first started Computer Science, I struggled with converting decimal to binary (and hexadecimal) and vice versa. This meant constantly looking through multiple websites and notes just to verify my answers. Sometimes, when I looked back at those notes, I had no idea how I even got the answer.
+Student Helper is a program designed to assist students with various tasks. When I was doing my A-levels some time ago, I often had to switch between multiple apps and websites for different subjects. For example, when I first started Computer Science, I struggled with converting decimal to binary (and hexadecimal) and vice versa. This meant constantly looking through multiple websites and notes just to verify my answers. Sometimes, when I looked back at those notes, I had no idea how I even got the answer.
 
 Similarly, during my English Language studies, I frequently searched for new synonyms and words to improve my essays. At home, I would spend 10 to 15 minutes manually planning out a Pomodoro timer and writing it all down in a notebook. Looking back, these small inefficiencies wasted a lot of time that could have been better utilized.
 
@@ -101,10 +101,6 @@ python project.py -ir <integer>
 - All original source files (`convert.py`, `eng_dict.py`, etc.) are in the `source_files` folder.
 - The program uses `argparse` for command-line arguments.
 - The dictionary feature relies on the Oxford Dictionary API and may have a delay in response.
-
-## Future Improvements
-- Optimize API response time for dictionary lookup.
-- Add a GUI for better user experience.
 
 ---
 This project was inspired by my personal struggles during A-levels. I created it to make student life easier by consolidating essential tools into one program.
